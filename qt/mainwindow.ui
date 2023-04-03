@@ -29,7 +29,7 @@
      </font>
     </property>
     <property name="title">
-     <string>Current Cordinates</string>
+     <string>Current Coordinates</string>
     </property>
     <widget class="QLCDNumber" name="lcdLat">
      <property name="geometry">
@@ -88,7 +88,7 @@
      </rect>
     </property>
     <property name="title">
-     <string>Mapa</string>
+     <string>Map</string>
     </property>
     <widget class="QQuickWidget" name="quickWidget">
      <property name="geometry">
